@@ -7,7 +7,6 @@ This project is a basic anti-sleep alert system built using Arduino. It is not i
 The system detects eye closure using an IR sensor mounted on safety glasses. If the eyes stay closed for more than 3 seconds, the Arduino triggers a buzzer alarm and a blinking red LED. Additionally, it supports Serial Monitor debugging and cloud-based alerts.
 
 
----
 
 🔧 Hardware Used
 
@@ -25,7 +24,6 @@ Jumper Wires & Breadboard
 
 
 
----
 
 🛠️ Skills Applied
 
@@ -43,7 +41,6 @@ System design thinking (sensing → decision → action flow)
 
 
 
----
 
 ⚡ How It Works
 
@@ -66,21 +63,13 @@ System design thinking (sensing → decision → action flow)
 
 
 
----
 
-📜 Circuit Diagram
-
-(Insert image of your circuit here once uploaded)
-
-
----
 
 💻 Code
 
 The Arduino code is available in AntiSleepAlert.ino.
 
 
----
 
 🚀 Future Improvements
 
@@ -94,7 +83,6 @@ Improve ergonomics of sensor mounting.
 
 
 
----
 
 🤝 Connect
 
