@@ -66,5 +66,7 @@ This project is a small step toward strengthening my foundation in electronics a
 If you’re into prototyping or want to collaborate, feel free to connect with me
 
 <img width="854" height="454" alt="Image" src="https://github.com/user-attachments/assets/517e9def-ad3b-473c-93b5-b9fda3fe8b1d" />
+
 ![Image](https://github.com/user-attachments/assets/85e738b4-7b56-4d32-989e-6c46c5a80f5c)
+
 ![Image](https://github.com/user-attachments/assets/c1cc7135-c548-419c-b37b-ea8c4ff3ae57)
